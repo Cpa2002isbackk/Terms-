@@ -1,0 +1,2 @@
+# Terms-
+Discordlog  server
